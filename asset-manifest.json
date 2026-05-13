@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MyMusic-Player/static/css/main.0c7c2b62.css",
+    "main.js": "/MyMusic-Player/static/js/main.aabe8eb3.js",
+    "static/media/bg.png": "/MyMusic-Player/static/media/bg.fd33311fd703974523e6.png",
+    "index.html": "/MyMusic-Player/index.html",
+    "main.0c7c2b62.css.map": "/MyMusic-Player/static/css/main.0c7c2b62.css.map",
+    "main.aabe8eb3.js.map": "/MyMusic-Player/static/js/main.aabe8eb3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c7c2b62.css",
+    "static/js/main.aabe8eb3.js"
+  ]
+}
