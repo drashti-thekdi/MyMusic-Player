@@ -1,6 +1,12 @@
 const TRACKS = [
 
 	{
+		title: 'Wo Kishna Hai',
+		artist: 'Rockot',
+		cover: 'https://pagallworlds.com/wp-content/uploads/2024/12/Jo-Hai-Albela.jpg',
+		src: './songs/Jo-Hai-Albela.mp3',
+	},
+	{
 		title: 'Karam Apnaa Apnaa Song',
 		artist: 'Rockot',
 		cover: 'https://thumbs.dreamstime.com/b/glowing-treble-clef-music-notes-abstract-colorful-energy-emit-vibrant-light-against-dark-backdrop-great-themed-391042538.jpg',
